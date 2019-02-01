@@ -1,0 +1,13 @@
+# def anagramChecker(str1, str2):
+# 	st1dic = {}
+# 	st2dic = {}
+
+# 	for letter in str1:
+
+thisdict = {
+	"a":1,
+	"b":2,
+	"c":3,
+}
+
+print(thisdict)
